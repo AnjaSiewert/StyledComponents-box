@@ -1,3 +1,5 @@
+import div from "../BoxWithStyledComponents";
+
 export default function BoxWithClassName({ isBlack }) {
   return (
     <div
