@@ -3,7 +3,7 @@ import BoxWithStyledComponents from "../components/BoxWithStyledComponents.js";
 
 export default function HomePage() {
   return (
-    <div>
+    <div style={{ display: "flex" }}>
       <BoxWithClassName />
       <BoxWithClassName isBlack />
       <BoxWithStyledComponents />
